@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -27,6 +26,3 @@
 
 <div style="min-height:453px" id="datawrapper-vis-YjfbT"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/YjfbT/embed.js" charset="utf-8" data-target="#datawrapper-vis-YjfbT"></script><noscript>
     <img src="https://datawrapper.dwcdn.net/YjfbT/full.png" alt="Mental Illness-Related Police Killings By Weaponry (Pie Chart)" /></noscript>
-
-</body>
-</html>
